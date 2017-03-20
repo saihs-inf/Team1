@@ -1,4 +1,4 @@
- 第一次上課內容
+# 第一次上課內容
 
 ## Slack
 
@@ -30,6 +30,9 @@ Slack 是一套團體之間的「溝通平台」，與大家常用的 LINE 聊�
 * 速度快
 
 比如說 WhatsApp, LINE, FB Messenger......等。
+#### LINE
+
+* 貼圖多
 
 ## Trello
 
@@ -43,4 +46,6 @@ Trello 是一套簡單的專案管理平台，使用便利貼 (card) 的方式�
 
 ## HackMD
 
-![HackMD](http://i.imgur.com/fDJ
+![HackMD](http://i.imgur.com/fDJDRkD.png)
+
+使用 markdown 做共筆及投影片。
